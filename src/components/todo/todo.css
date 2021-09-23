@@ -1,0 +1,21 @@
+.main_div {
+  background-color: cornsilk;
+  width: 20rem;
+  height: 500px;
+  border: 1px solid black;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+}
+
+.list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.list_style {
+  display: flex;
+  align-self: center;
+}
